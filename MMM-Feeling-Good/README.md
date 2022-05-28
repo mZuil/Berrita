@@ -15,7 +15,7 @@ Las capturas se pueden encontrar en la memoria del proyecto.
 
 ## Dependencias
 
-Necesita la instalación de algunos paquetes npm:
+No necesita dependencias para que pueda funcionar correctamente.
 
 ## Instalación del módulo
 Hay que cargar el módulo directamente de GitHub usando estos comandos:
