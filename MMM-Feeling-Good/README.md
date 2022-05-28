@@ -47,11 +47,11 @@ Para configurar el módulo en MagicMirror², agrega la siguiente sección al arc
 		}
 ```
 
-## Notifications
+## Notificaciones
 
-The module sends notifications if a user is logged in or logged out. In addition you can request the list of logged-in users to check if somebody is in front of the mirror. You can then use it for your own module, such as [MMM-MotionControl](https://github.com/nischi/MMM-MotionControl).
+Este módulo envía notificaciones a otros módulos para activar el text-to-speech de las próximas preguntas, indicar que ha finalizado el cuestionario o indicar que va a comenzar el módulo de la respiración diafragmática.
 
-| Notification          | Direction | Description                                            |
+| Notificación          | Dirección | Descripción                                            |
 | --------------------- | --------- | ------------------------------------------------------ |
 | `SAY_SPEECH`          | out       | Envía el texto que se desea que sea narrado            |
 | `NO_MORE_QUESTIONS`   | out       | Envía señal de que el cuestionario diario ha finalizado|
