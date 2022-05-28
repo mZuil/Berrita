@@ -1,0 +1,13 @@
+div.same-row {
+	display:flex;
+	flex-direction: row;
+}
+
+img.smaller {
+	width: 280px;
+	height: 280px;
+}
+
+.mt-50 {
+	margin-top: -50px;
+}

@@ -1,0 +1,9 @@
+{
+    "welcome": "¿Hola? Ay, hola, no te había visto",
+    "wait_face_reco": "Espera mientras te reconozco...",
+    "greeting_with_name": "Hola, $user, me alegra verte",
+    "asking_questions": "Te voy a hacer unas preguntas de control para ver qué tal vas",
+    "talk_to_me": "Di \"Berrita\" si quieres interactuar conmigo por voz",
+    "do_not_talk_to_me": "Si quieres dejar de hablar conmigo di \"A dormir\"",
+    "end_questions": "¡Listo! Ya has completado el cuestionario de hoy"
+}
