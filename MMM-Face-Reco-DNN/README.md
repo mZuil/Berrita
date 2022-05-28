@@ -6,7 +6,7 @@ With this module you can show and hide all other modules depending on which pers
 
 ## Información del módulo
 
-Este módulo es una modificación del [MMM-Face-Reco-DNN] (https://github.com/nischi/MMM-Face-Reco-DNN), que es de código abierto, lo que nos ha permitido poder desarrollar y modificar sobre él.
+Este módulo es una modificación del [MMM-Face-Reco-DNN](https://github.com/nischi/MMM-Face-Reco-DNN), que es de código abierto, lo que nos ha permitido poder desarrollar y modificar sobre él.
 
 ## Adiciones nuevas al módulo para hacerlo funcionar en el espejo (CÓDIGO NUEVO PARA BERRITA)
 - En la carpeta dataset\maria se han agregado las imágenes de la autora del proyecto
