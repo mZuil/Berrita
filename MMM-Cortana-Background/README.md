@@ -1,4 +1,4 @@
-# Módulo Feeling Good: cuestionario diario para el control de la ansiedad y la depresión.
+# Módulo Cortana Background: módulo que proporciona información del estado del espejo
 
 Este módulo muestra por pantalla mensajes informativos sobre el estado de la aplicación en un determinado momento, acompañado de un conjunto de animaciones de [Cortana](https://onewindows.es/2014/08/estas-son-las-animaciones-de-xiao-na-la-version-china-de-cortana/) que fueron utilizadas en China. Esta elaborado en consonancia con el resto de módulos, por lo que sirve como soporte informativo de ellos.
 
