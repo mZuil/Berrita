@@ -15,6 +15,19 @@ Las capturas se pueden encontrar en la memoria del proyecto.
 ## Dependencias
 
 - Micrófono
+- PyAudio. Para ello se ejecutaron dos comandos:
+```sh
+	pip install pyaudio
+	sudo apt-get install python3-pyaudio
+```
+- SpeechRecognition. Para ello se ejecutó el comando:
+```sh
+	pip3 install SpeechRecognition
+```
+- Flac (codificador y decodificador de audio). Para ello se ejecutó el comando:
+```sh
+	sudo apt-get install flac --fix-missing
+```
 
 ## Instalación del módulo
 Hay que cargar el módulo directamente de GitHub usando estos comandos:
