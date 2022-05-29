@@ -1,6 +1,6 @@
 # Módulo Speech to Text de Google: conversión de voz a texto con API de Google
 
-Este módulo realiza una conversión de voz a texto. Además tiene una palabra de activación que permite comenzar el envío de las notificaciones de un módulo a otro con aquello que el usuario dice; y otro comando de desactivación para dejar de enviar dichas notificaciones.
+Este módulo realiza una conversión de voz a texto. Además tiene una palabra de activación que permite comenzar el envío de las notificaciones de un módulo a otro con aquello que el usuario dice; y otro comando de desactivación para dejar de enviar dichas notificaciones. Contiene además un script de Python para obtener la entrada del micrófono que se desea utilizar.
 
 Este módulo pretende ser una herramienta adicional para [MagicMirror²](https://magicmirror.builders/).
 
