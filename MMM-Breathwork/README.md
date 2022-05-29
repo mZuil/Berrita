@@ -1,4 +1,4 @@
-# Módulo Feeling Good: cuestionario diario para el control de la ansiedad y la depresión.
+# Módulo Breathwork: actividad de respiración diafragmática
 
 Este módulo muestra por pantalla un ejercicio de respiración diafragmática que ayuda a prevenir la ansiedad puesto que permite relajar al usuario. La funcionalidad es la que aparece en el módulo [MMM-Breathwork](https://github.com/yashatgit/MMM-Breathwork), pero ha sido modificado para adecuarlo a los tiempos adecuados para el proyecto.
 
